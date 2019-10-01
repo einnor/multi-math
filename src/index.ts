@@ -1,6 +1,6 @@
 import { Game } from './Game';
 import { Player } from './Player';
-import { Utility } from './Utility';
+import * as Utility from './Utility';
 
 let newGame: Game;
 

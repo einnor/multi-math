@@ -1,5 +1,5 @@
 import { Scoreboard } from './ScoreBoard';
-import { Utility } from './Utility';
+import * as Utility from './Utility';
 import { Player } from './Player';
 import { Result } from './types/Result';
 
